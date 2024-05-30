@@ -1,0 +1,1 @@
+const availableImg = ["baked-gi","photon-mapping","simplest-single-scat","spat-temp-gi","restir-gi","photon-map-nn","cone-tracing","lpv-indirect-illum","light-field-tracing-gi","1d-minmax-shad"];

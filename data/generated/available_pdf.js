@@ -1,0 +1,1 @@
+const availablePdf = ["baked-gi","spat-temp-gi","simplest-single-scat","photon-mapping","photon-map-nn","restir-gi","1d-minmax-shad","light-field-tracing-gi","lpv-indirect-illum","cone-tracing"];
